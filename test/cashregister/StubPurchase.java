@@ -9,6 +9,6 @@ public class StubPurchase extends Purchase {
     }
 
     public String asString() {
-        return "";
+        return "happy testing!";
     }
 }
